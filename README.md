@@ -15,5 +15,5 @@ Everyone working on swarm intelligence should have a suit of benchmark functions
         1) plot and saved
         2) in English
     Cited: This work has been published in a book cited as follows:
-        Zheng-Ming GAO, Juan ZHAO. Benchmark functions with Python[M]. Riga, Latvia: Golden Light Academic Publishing, 2020.9: 3-5.
+        Zheng-Ming GAO, Juan ZHAO. Benchmark functions with Python[M]. Riga, Latvia: Golden Light Academic Publishing, 2020.9.
         You can get access via: https://morebooks.shop/store/gb/book/benchmark-functions-with-python/isbn/978-620-2-41254-4
